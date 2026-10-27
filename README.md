@@ -1,0 +1,2 @@
+# EStudos-dirigidos1
+DOC PESQUISA OPERACIONAL
